@@ -2,7 +2,7 @@
 
 Your one-line role | key focus areas
 
-[LinkedIn](https://linkedin.com/in/you) • [Portfolio](https://yoursite.dev) • [Projects](https://github.com/you?tab=repositories)
+[LinkedIn](https://linkedin.com/in/sarathasoka) • [Portfolio](https://yoursite.dev) • [Projects](https://github.com/you?tab=repositories)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
@@ -26,4 +26,4 @@ Open to collaborations on ...
 
 ## Contact
 
-📧 you@email.com • [LinkedIn](https://linkedin.com/in/you)
+📧 sarathasoka.official@gmail.com • [LinkedIn](https://linkedin.com/in/sarathasoka)
