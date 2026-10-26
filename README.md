@@ -1,29 +1,31 @@
-# Your Name
+# Sarath A
 
-Your one-line role | key focus areas
+Robotics Engineer | Control Systems • Perception • Simulation
 
-[LinkedIn](https://linkedin.com/in/sarathasoka) • [Portfolio](https://yoursite.dev) • [Projects](https://github.com/you?tab=repositories)
+[LinkedIn](https://linkedin.com/in/sarathasoka) • [Portfolio](https://yoursite.dev) • [Projects](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-1E88E5?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
-Two or three sentences about what you build and what you're working on.
+Robotics engineer with 5+ years building autonomous systems: drone flight control, visual-inertial navigation, and Unreal Engine–based simulation. I now work on ADAS validation in Japan and am currently building a ROS 2 robot with AI-driven perception.
 
-**Stack:** Python, C++, ROS 2, Docker
-
+**Stack:** Python, ROS / ROS2, ArduPilot, Unreal Engine + AirSim, MATLAB, Fusion 360, CAN
 ## What I Build
 
-- **Area 1:** what you do there, with specific tools
-- **Area 2:** what you do there, with specific tools
-- **Area 3:** what you do there, with specific tools
+- **Control systems:** PID and LQR controllers for drone attitude stabilization; an LQR-I design improved stability by 20% under disturbances like wind
+- **Perception & navigation:** VIO with an OAK-D stereo camera and Spectacular AI for GNSS-denied flight, ArUco landmark positioning, bug-algorithm obstacle avoidance
+- **Simulation:** Unreal Engine / AirSim environments for testing autonomy before real flights
 
-Open to collaborations on ...
+## Currently
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=you&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=you&layout=compact&theme=tokyonight&hide_border=true)
+- 🔨 Building a ROS 2 Physical AI robot
+- 🇯🇵 Based in Japan
+- 🤝 Open to collaborations on autonomous robots, control, and sim-to-real
 
 ## Contact
 
-📧 sarathasoka.official@gmail.com • [LinkedIn](https://linkedin.com/in/sarathasoka)
+📧 sarathasoka.official@gmail.com
