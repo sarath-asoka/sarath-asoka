@@ -2,7 +2,7 @@
 
 Robotics Engineer | Control Systems • Perception • Simulation
 
-[LinkedIn](https://linkedin.com/in/sarathasoka) • [Portfolio](https://yoursite.dev) • [Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+[LinkedIn](https://linkedin.com/in/sarathasoka) • [Portfolio](https://yoursite.dev) 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
@@ -29,3 +29,10 @@ Robotics engineer with 5+ years building autonomous systems: drone flight contro
 ## Contact
 
 📧 sarathasoka.official@gmail.com
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api?username=sarath-asoka&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=sarath-asoka&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
